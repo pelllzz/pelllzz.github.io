@@ -5,7 +5,7 @@ title: 비 오는 날 음악 (1)
 subtitle: Rain with Songs (1)
 description: 장마연금 플레이리스트
 image: https://cdn.pixabay.com/photo/2016/11/29/05/55/adult-1867665_960_720.jpg
-optimized_image: https://cdn.pixabay.com/photo/2016/11/29/05/55/adult-1867665_640_379.jpg
+optimized_image: https://cdn.pixabay.com/photo/2016/11/29/05/55/adult-1867665_960_720.jpg
 category: music
 tags:
   - music
